@@ -22,3 +22,4 @@ v0.0.1 realised normal message-sending processes. Two nano games(roll dice & fli
  
  
  In the next version, a python program will be connected for proving dynamic data from public websites. Meanwhile, a python version program will be developed which aims to be embedded in a Raspberry Pi to mobilised the server.
+[![Run on Repl.it](https://repl.it/badge/github/FanFanFantazy/discord-bot-noobs)](https://repl.it/github/FanFanFantazy/discord-bot-noobs)
